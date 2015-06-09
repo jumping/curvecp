@@ -1,0 +1,1 @@
+See http://curvecp.org/ for details about the protocol.
